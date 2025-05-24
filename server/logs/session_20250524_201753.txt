@@ -1,0 +1,16 @@
+--- Session Started: 2025-05-24 20:17:53 ---
+
+[Preprompt used for all models]:
+You are a Friendly Assistant.
+
+----------------------------------------
+
+user: hello
+gpt-4: Hello! How can I assist you today?
+
+user: hello
+gemini: Hello! How can I help you today?
+
+user: hello
+claude-3-haiku-20240307: Hello! How can I assist you today?
+

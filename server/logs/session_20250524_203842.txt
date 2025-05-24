@@ -1,0 +1,9 @@
+--- Session Started: 2025-05-24 20:38:42 ---
+
+[Model Preprompts]
+gpt-4: You are a Friendly Assistant.
+models/gemini-1.5-pro-latest: You are a Friendly Assistant.
+claude-3-haiku-20240307: You are a Friendly Assistant.
+
+----------------------------------------
+
