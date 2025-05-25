@@ -43,4 +43,4 @@ server/.env
 next-env.d.ts
 
 
-ckient/node_modules/
+client/node_modules/
